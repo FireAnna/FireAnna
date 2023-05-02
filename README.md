@@ -1,4 +1,4 @@
-### Hi there 👋
+ 
 
 <!--
 **FireAnna/FireAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+everybody💙💛🇺🇦 )](https://git.io/typing-svg)
+
+
+
+<div align="center" style="width: 480px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
+  <img src="./photo/6M8G.gif" alt = "6M8G" width="600"/>
+</div>
